@@ -1,0 +1,38 @@
+# The URL the site will be built for
+base_url = "https://example.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "hacker"
+
+# Taxonomies
+taxonomies = [{ name = "tags" }]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+logo = "images/logo.png"
+menu = [{ url = "/about", name = "About" }, { url = "/tags", name = "Tags" }]
+# Social links
+social_links = [
+  { platform = "email", user_id = "robertsweetman@pm.me" },
+  { platform = "github", user_id = "robertsweetman" },
+  { platform = "linkedin", user_id = "robert-sweetman-979286" },
+  # { platform = "feed", user_id = true },
+  # { platform = "keyoxide", user_id = "aspe:host:XXXXXXX" },
+  # { platform = "facebook", user_id = "" },
+  # { platform = "instagram", user_id = "" },
+  # { platform = "pinterest", user_id = "" },
+  # { platform = "twitter", user_id = "" },
+  # { platform = "stackoverflow", user_id = "" },
+  # { platform = "youtube", user_id = "" },
+  # { platform = "telegram", user_id = "" },
+]
