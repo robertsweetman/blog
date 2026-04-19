@@ -1,4 +1,11 @@
-# Expectation Management for Engineers
++++
+title = "Expectation Management for Engineers"
+date = 2019-10-05
+description = "Three things to be aware of as an engineer who has deadlines"
+
+[taxonomies]
+tags = ["engineering", "communication", "career"]
++++
 
 Here are three things you should try to be aware of as an engineer who has deadlines.
 

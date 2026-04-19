@@ -1,4 +1,11 @@
-# Did You Get My Email?
++++
+title = "Did You Get My Email?"
+date = 2019-07-10
+description = "Why email works against open communication and what to use instead"
+
+[taxonomies]
+tags = ["communication", "engineering"]
++++
 
 Firstly, imagine the sort of cinematic pyre usually reserved for the final 'baddie' in movies. Now, visualize shoving all your email into it. Great or what?!
 

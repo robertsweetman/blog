@@ -1,4 +1,11 @@
-# The Communication Struggle is Real
++++
+title = "The Communication Struggle is Real"
+date = 2019-08-20
+description = "Communication is at the root of most software development challenges"
+
+[taxonomies]
+tags = ["communication", "engineering", "project-management"]
++++
 
 Not too long ago, in a galaxy far, far away... there was the promise of a utopia where tooling and automation would eliminate the need for all those time consuming meetings.
 

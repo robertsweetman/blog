@@ -1,4 +1,11 @@
-# Acquiring Skills and the Prism of Belief
++++
+title = "Acquiring Skills and the Prism of Belief"
+date = 2020-04-10
+description = "On learning, skill acquisition and how your beliefs shape your progress as an engineer"
+
+[taxonomies]
+tags = ["learning", "career", "engineering"]
++++
 
 A very short point about learning, skill acquisition and mastery.
 

@@ -1,4 +1,11 @@
-# Expediency
++++
+title = "Expediency"
+date = 2019-06-15
+description = "On the trap of getting hung up on how to do something instead of just doing it"
+
+[taxonomies]
+tags = ["engineering", "productivity"]
++++
 
 I've had a blog (on a totally different subject) for ages. It was hosted on Wordpress but no longer reflected who I am now or my interests. It was old but letting go of it was hard.
 

@@ -1,4 +1,11 @@
-# Remote Working No Longer Special
++++
+title = "Remote Working No Longer Special"
+date = 2020-09-15
+description = "Remote working has proven itself — dragging everyone back to the office is foolishness"
+
+[taxonomies]
+tags = ["remote-working", "engineering", "communication"]
++++
 
 Some changes, once they happen in a society, can't be undone. Remote working will become a great example of this.
 
